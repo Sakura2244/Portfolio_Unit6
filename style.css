@@ -1,6 +1,6 @@
     header {
       text-align: center;
-      background: url("images/banner.jpg");
+      background: url("https://lh3.googleusercontent.com/iVHfkDpBc0OIaHi1_2Zde426v5vTfBZLBqJpTBC_Dj5uxWWUauoBy0E-LMZBLVgqwQ=h900");
       background-size: cover;
       color: white;
     }
@@ -9,6 +9,9 @@
     }
     h1 {
       font-size: 70px;
+      color:lavender
+      ;
+      
     }
     img {
       margin: 40px 0px 0px 0px;
